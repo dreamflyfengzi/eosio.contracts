@@ -4,8 +4,8 @@
         "pipeline-branch": "master",
         "dependencies": // dependencies to pull for a build of contracts, by branch, tag, or commit hash
         {
-            "eosio": "v2.1.0-alpha-dev", // commit dated Wed May 27 17:55:25 2020 -0500
-            "eosio.cdt": "v1.7.0-dev" // commit dated Tue May 19 15:10:10 2020 -0400
+            "eosio": "develop",
+            "eosio.cdt": "develop"
         }
     }
 }
