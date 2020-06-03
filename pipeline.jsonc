@@ -4,7 +4,7 @@
         "pipeline-branch": "master",
         "dependencies": // dependencies to pull for a build of contracts, by branch, tag, or commit hash
         {
-            "eosio": "develop",
+            "eosio": "605b596bf6e8f59f1ecb7989e20855957f55aa9a",
             "eosio.cdt": "develop"
         }
     }
